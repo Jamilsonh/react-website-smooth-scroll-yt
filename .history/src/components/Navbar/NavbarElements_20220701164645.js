@@ -79,9 +79,5 @@ export const NavLinks = styled(LinkS)`
     padding: 0 1rem;
     height: 100%;
     cursor: pointer;
-
-    &.active {
-        border-bottom: 3px solid #01bf71;
-    }
 `
 
