@@ -113,4 +113,4 @@ export const NavBtnLink = styled(LinkR)`
         background: #fff;
         color: #010606;
     }
-`;
+`
